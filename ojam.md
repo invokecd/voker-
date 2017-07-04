@@ -11,7 +11,9 @@ Music Technology Startup
   Started as Euphony: Built a Musician discovery/Chat app
   
   
-  Roadmap )August(
+  Roadmap:
+  
+    August
     -Instrument Recognition AI (Early model/Research)
     -10,000 users
     -iOS app Testing
